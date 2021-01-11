@@ -1,0 +1,74 @@
+.red{ background-color:#ff0000;}
+.orange{background-color:#ff7700;}
+.yellow{background-color:#ffe600;}
+.green{background-color:#32c900;}
+.blue{background-color:#0525f5;}
+.pink{background-color:#ff86f4;}
+.skyblue{background-color:#05ddf5;}
+.purple{background-color:#5202ad;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div {
+    width:100px;
+    height:100px;
+    border: 1px solid black;
+    float:left;
+    padding: 1px;
+    text-align:center;
+}
